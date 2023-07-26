@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Saladpuk.PromptPay</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Saladpuk.EMVCo.Contracts\Saladpuk.EMVCo.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
